@@ -1,0 +1,8 @@
+# English strings go here for Rails i18n
+en:
+  label_category_sharing_none: Not shared
+  label_category_sharing_descendants: With subprojects
+  label_category_sharing_hierarchy: With project hierarchy
+  label_category_sharing_tree: With project tree
+  label_category_sharing_system: With all projects
+  label_update_issue_done_ratios: Update issue don
